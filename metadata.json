@@ -1,0 +1,6 @@
+{
+  "name": "Ultimate Auto Detailing",
+  "description": "Premium automotive detailing business based in Los Angeles, California. Luxury car washing, paint correction, interior detailing, and ceramic coating.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
